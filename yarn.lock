@@ -1895,9 +1895,7 @@ assert@^1.1.1:
     util "0.10.3"
 
 assets-webpack-plugin@^7.0.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/assets-webpack-plugin/-/assets-webpack-plugin-7.1.0.tgz#f8a8fe8ce4533201e1de20a2e43de8a955ff0701"
-  integrity sha512-qfwG0G+HFYPAZ1tc6y7KOx/kgZPD8IQxa54ddZMDVpWrutheXc9Pqjw6ukw4gtW1HvQUQVVUcfB4pdPRoVgLZA==
+  version "7.1.1"
   dependencies:
     camelcase "^6.0.0"
     escape-string-regexp "^4.0.0"
